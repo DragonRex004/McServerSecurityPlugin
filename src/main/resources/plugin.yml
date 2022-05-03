@@ -1,0 +1,6 @@
+name: McServerSecurityPlugin
+version: '${project.version}'
+main: de.dragonrexx.mcserversecurityplugin.McServerSecurityPlugin
+api-version: 1.18
+commands:
+  login:
